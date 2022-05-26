@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ycvyMxf8a+sZjuzgOznR9H3A6EQ7ZeD/++/qIWsxwtVXvC+McEoriEEbyJMBzC3ffd+qZJ9yIYmShUDimlUq3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JOKER\\Documents\\GitHub\\Xamarin\\Proyecto\\Proyecto\\Proyecto\\Proyecto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JOKER\\.nuget\\packages\\bootstrap\\5.1.3\\bootstrap.5.1.3.nupkg.sha512",
+    "C:\\Users\\JOKER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JOKER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\JOKER\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\JOKER\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\JOKER\\.nuget\\packages\\xamarin.forms\\5.0.0.2401\\xamarin.forms.5.0.0.2401.nupkg.sha512"
+  ],
+  "logs": []
+}
